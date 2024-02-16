@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EtienneDodin
 - 👀 I’m interested in developing web front and back-end skills.
-- 🌱 I’m currently learning HTML, CSS and JavaScript with a certified training course that will give me the title of Application Developer (french professional graduation).
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS and JavaScript with a certified training course that will give me the title of Web / mobile Web Developer (french professional graduation).
 - 📫 You can reach me here : etienne.dodin@gmail.com or on LinkedIn : https://www.linkedin.com/in/etienne-dodin/
 
 <!---
